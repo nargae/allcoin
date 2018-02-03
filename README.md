@@ -1,2 +1,3 @@
 # allcoin
-alldoin
+alldoi
+allcoinstudy
